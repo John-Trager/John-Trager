@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=John-Trager&label=Profile%20views&color=0e75b6&style=flat" alt="John-Trager" /> </p>
 
 - 👀 I’m interested in machine learning, robotics, fintech, and turning ideas into businesses or at least cool github repos :)
-- 🔨 I’m currently learning about computer networks and NLP!
+- 🔨 I’m currently learning about web systems and autonomous robotics!
 - 💭 feel free to contact me at jtrager [at] umich [dot] edu
 
 <!---
