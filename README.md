@@ -4,7 +4,7 @@
 --->
 
 - 👀 I’m interested in machine learning, robotics, fintech, and turning ideas into businesses or at least cool github repos :)
-- 🔨 I’m currently learning about web systems and autonomous robotics!
+- 🔨 I’m currently learning about stock exchanges and distributed systems
 - 💭 feel free to contact me at jtrager [at] umich [dot] edu
 
 <!---
